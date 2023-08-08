@@ -55,7 +55,7 @@
         android:layout_marginTop="20dp"
         android:textAlignment="center"
         android:textColor="#F57C00"
-        android:textSize="32sp"
+        android:textSize="32dp"
         android:textStyle="bold"/>
 
 </LinearLayout>

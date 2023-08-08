@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View view) {
         if(view == toDollarButton){
-            converterParaDolar();
+            converterParaDollar();
         }else if(view == toRealButton){
             converterParaReal();
         }
